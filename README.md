@@ -9,5 +9,5 @@ Using assertions like assertEquals, assertTrue, assertThrows
 Understanding the structure of a test class
 Testing methods with different return types and exceptions
 
-👨Author:
+Author:
 Piyush Kumar
